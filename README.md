@@ -15,6 +15,30 @@
 
 ---
 
+### 🚀 Main Projects (Web)
+
+| 💻 Project | 🔗 Live Demo | ⚙️ Stack |
+|-----------|--------------|---------|
+| **EYCUBE Consulting** | [eycubeconsulting.com](https://eycubeconsulting.com) | ReactJs, Tailwind, JavaScript |
+| **REACCO EMPIRE** | [reaccoempire.com](https://reaccoempire.com) | React, Vite, Tailwind |
+| **SICC FREQUENCIES** | [siccfrequencies.com](https://siccfrequencies.com) | React, Vite, Tailwind, Node, Mongo |
+| **LuX Comfort** | [luxcomfort.vercel.app](https://luxcomfort.vercel.app) | Reactjs, Vite , Tailwind |
+| **Real Estate Sample** | [estate-jk.vercel.app](https://estate-jk.vercel.app) | React, Tailwind |
+
+---
+
+### 🎨 Figma Design Portfolio
+
+| 🧩 Design | 🎯 Link |
+|----------|---------|
+| **M-safiri App** | [View on Behance](https://www.behance.net/gallery/209427013/M-safiri-App) |
+| **VCRENT Dashboard** | [View on Behance](https://www.behance.net/gallery/213479503/VCRENT-DASHBOARD) |
+| **Oper8 Ecommerce App** | [View on Behance](https://www.behance.net/gallery/213484711/OPER8-MOBILE-ECOMMERCE-APP-DESIGN) |
+| **Modern Portfolio Website** | [View on Behance](https://www.behance.net/gallery/210475779/Modern-Portfolio-Website) |
+| **Ecommerce Website Design** | [View on Behance](https://www.behance.net/gallery/213490529/ECOMMERCE-WEBSITE-DESIGN) |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -27,7 +51,7 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 Portfolio: [yunghavy.vercel.app](https://yunghavy.vercel.app/)
+
 - 📝 Behance: [behance.net/jafferkimitei](https://behance.net/jafferkimitei)
 - 📧 Email: `jafferkimitei@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/jafferkimitei](https://linkedin.com/in/jafferkimitei)
@@ -38,3 +62,21 @@
 - 🔭 Currently building: a **filmmaker streaming platform**
 - 🧠 Always learning: **AI integration & scalable architectures**
 - 🎨 Passionate about combining **creative design** with **robust code**
+
+---
+
+### 🧠 Technologies I'm Focused On
+
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### ✨
+
+```md
+<img src="https://www.svgbackgrounds.com/wp-content/uploads/2021/05/wave-haikei.svg" alt="wave" />
