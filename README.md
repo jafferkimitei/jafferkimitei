@@ -44,6 +44,21 @@
 </p>
 
 ---
+<details open>
+ <summary><h3>🏆 GitHub Trophies</h3></summary>
+
+<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=jafferkimitei&column=8&theme=gruvbox&no-frame=true"/>
+
+---
+
+</details>
+
+<p align="center">
+  <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=jafferkimitei&style=flat-square&color=brightgreen"/>
+  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/jafferkimitei/jafferkimitei?logo=github&label=LAST+UPDATE&color=blueviolet&style=flat-square"/>
+</p>
+
+---
 
 ### 📫 Let’s Connect
 
@@ -74,8 +89,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/jafferkimitei/jafferkimitei/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<img alt="Contributions" title="Contributions" src="https://github.com/jafferkimitei/jafferkimitei/blob/contributions/snake.svg"/>
 </p>
