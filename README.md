@@ -2,7 +2,9 @@
 <h3 align="center">Creative Full Stack Web Developer | Problem Solver | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+TypeScript+%7C+Figma+Lover;Let's+Build+Something+Great+Together!🚀" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Developer-%23007acc?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Node.js-%23000000?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB%20%7C%20TypeScript%20%7C%20Figma-%2347A248?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
@@ -19,11 +21,11 @@
 
 | 💻 Project | 🔗 Live Demo | ⚙️ Stack |
 |-----------|--------------|---------|
-| **EYCUBE Consulting** | [eycubeconsulting.com](https://eycubeconsulting.com) | ReactJs, Tailwind, JavaScript |
+| **EYCUBE Consulting** | [eycubeconsulting.com](https://eycubeconsulting.com) | React, Tailwind, JavaScript |
 | **REACCO EMPIRE** | [reaccoempire.com](https://reaccoempire.com) | React, Vite, Tailwind |
 | **SICC FREQUENCIES** | [siccfrequencies.com](https://siccfrequencies.com) | React, Vite, Tailwind, Node, Mongo |
-| **LuX Comfort** | [luxcomfort.vercel.app](https://luxcomfort.vercel.app) | Reactjs, Vite , Tailwind |
-| **Real Estate Sample** | [estate-jk.vercel.app](https://estate-jk.vercel.app) | React, Tailwind |
+| **LuX Comfort** | [luxcomfort.vercel.app](https://luxcomfort.vercel.app) | React, Vite , Tailwind |
+| **YUNG HAVY** | [yunghavy.vercel.app](https://yunghavy.vercel.app) | React, Vite, Tailwind |
 
 ---
 
@@ -76,7 +78,10 @@
 
 ---
 
-### ✨
+---
 
-```md
-<img src="https://www.svgbackgrounds.com/wp-content/uploads/2021/05/wave-haikei.svg" alt="wave" />
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/jafferkimitei/jafferkimitei/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
