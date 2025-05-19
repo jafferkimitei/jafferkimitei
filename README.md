@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaffer Kimitei</h1>
 <h3 align="center">Creative Full Stack Web Developer | Problem Solver | UI/UX Enthusiast</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Developer-%23007acc?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Node.js-%23000000?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB%20%7C%20TypeScript%20%7C%20Figma-%2347A248?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
