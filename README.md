@@ -16,7 +16,7 @@
 | 💻 Project | 🔗 Live Demo | ⚙️ Stack |
 |-----------|--------------|---------|
 | **EYCUBE Consulting** | [eycubeconsulting.com](https://eycubeconsulting.com) | React, Tailwind, JavaScript |
-| **ALPHA BABY SHOP** | [alphababyshop.co.ke](https://alphababyshop.co.ke) | NextJs, Typescript, Shadcn, Tailwind, Mongo |
+| **ALPHA BABY SHOP** | [alphababyshop.co.ke](https://nextjs-alphas.vercel.app/)) | NextJs, Typescript, Shadcn, Tailwind, Mongo |
 | **REACCO EMPRE** |[reaccoempire.com](https://reaccoempire.com) | React, Vite, Tailwind |
 | **SICC FREQUENCIES** | [siccfrequencies.com](https://siccfrequencies.com) | React, Vite, Tailwind, Node, Mongo |
 | **LuX Comfort** | [luxcomfort.vercel.app](https://luxcomfort.vercel.app) | React, Vite , Tailwind |
