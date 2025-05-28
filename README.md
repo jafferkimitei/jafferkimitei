@@ -19,7 +19,6 @@
 | **ALPHA BABY SHOP** | [alphababyshop.co.ke](https://nextjs-alphas.vercel.app/)) | NextJs, Typescript, Shadcn, Tailwind, Mongo |
 | **REACCO EMPRE** |[reaccoempire.com](https://reaccoempire.com) | React, Vite, Tailwind |
 | **SICC FREQUENCIES** | [siccfrequencies.com](https://siccfrequencies.com) | React, Vite, Tailwind, Node, Mongo |
-| **LuX Comfort** | [luxcomfort.vercel.app](https://luxcomfort.vercel.app) | React, Vite , Tailwind |
 | **YUNG HAVY** | [yunghavy.vercel.app](https://yunghavy.vercel.app) | React, Vite, Tailwind |
 
 ---
