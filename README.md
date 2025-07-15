@@ -1,44 +1,29 @@
 <h1 align="center">Hi 👋, I'm Jaffer Kimitei</h1>
-<h3 align="center">Creative Full Stack Web Developer | Problem Solver | UI/UX Enthusiast</h3>
+<h3 align="center">Creative Software Engineer | Innovator | UI/UX Designer</h3>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mongodb,html,css,tailwind,figma,postman,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,nodejs,mongodb,tailwind,figma,postman,git,vscode" />
 </p>
 
 ---
+<p align="left">
+  <img src="https://img.shields.io/badge/Convex-%231B1F23?style=flat-square&logo=convex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=flat-square&logo=clerk&logoColor=white" />
+</p>
 
-### 🚀 Main Projects (Web)
+### 🔐 Backend as a Service / Auth Providers
 
-| 💻 Project | 🔗 Live Demo | ⚙️ Stack |
-|-----------|--------------|---------|
-| **EYCUBE Consulting** | [eycubeconsulting.com](https://eycubeconsulting.com) | React, Tailwind, JavaScript |
-| **ALPHA BABY SHOP** | [alphababyshop.co.ke](https://nextjs-alphas.vercel.app/)) | NextJs, Typescript, Shadcn, Tailwind, Mongo |
-| **REACCO EMPRE** |[reaccoempire.com](https://reaccoempire.com) | React, Vite, Tailwind |
-| **SICC FREQUENCIES** | [siccfrequencies.com](https://siccfrequencies.com) | React, Vite, Tailwind, Node, Mongo |
-| **YUNG HAVY** | [yunghavy.vercel.app](https://yunghavy.vercel.app) | React, Vite, Tailwind |
-
----
-
-### 🎨 Figma Design Portfolio
-
-| 🧩 Design | 🎯 Link |
-|----------|---------|
-| **M-safiri App** | [View on Behance](https://www.behance.net/gallery/209427013/M-safiri-App) |
-| **VCRENT Dashboard** | [View on Behance](https://www.behance.net/gallery/213479503/VCRENT-DASHBOARD) |
-| **Oper8 Ecommerce App** | [View on Behance](https://www.behance.net/gallery/213484711/OPER8-MOBILE-ECOMMERCE-APP-DESIGN) |
-| **Modern Portfolio Website** | [View on Behance](https://www.behance.net/gallery/210475779/Modern-Portfolio-Website) |
-| **Ecommerce Website Design** | [View on Behance](https://www.behance.net/gallery/213490529/ECOMMERCE-WEBSITE-DESIGN) |
-
----
+- ⚙️ **Convex** – Real-time reactive backend to scale full-stack logic without a traditional server
+- 🔐 **Clerk** – Seamless auth integration with Next.js for user management, SSO, OTP, and more
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafferkimitei&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafferkimitei&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafferkimitei&layout=compact&theme=tokyonight" />
 </p>
