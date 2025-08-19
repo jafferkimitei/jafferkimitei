@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaffer Kimitei</h1>
-<h3 align="center">Creative Software Engineer | Innovator | UI/UX Designer</h3>
+<h3 align="center"> Software Engineer | UI/UX Designer</h3>
 
 ---
 
@@ -20,6 +20,13 @@
 
 - ⚙️ **Convex** – Real-time reactive backend to scale full-stack logic without a traditional server
 - 🔐 **Clerk** – Seamless auth integration with Next.js for user management, SSO, OTP, and more
+
+### ☁️ Cloud & Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
 ### 📊 GitHub Stats
 
@@ -45,9 +52,17 @@
 </p>
 
 ---
+### 🎯 Current Focus
+- Scaling **multi-tenant architectures** with Convex + PostgreSQL  
+- Exploring **AI-driven personalization** for eCommerce  
+- Leveling up testing with **Jest + Playwright**
+
+### 🤝 Open to Collaborations
+- 🚀 SaaS platforms & multi-tenant apps  
+- 🎬 Creative tech (media, streaming, design tools)  
+- 🛒 Next-gen eCommerce & fintech integrations 
 
 ### 📫 Let’s Connect
-
 
 - 📝 Behance: [behance.net/jafferkimitei](https://behance.net/jafferkimitei)
 - 📧 Email: `jafferkimitei@gmail.com`
@@ -55,14 +70,3 @@
 
 ---
 
-### ⚡ Fun Facts
-- 🔭 Currently building: a **Mega Ecommerce Platform**
-- 🧠 Always learning: **How to improve my skills in API architectures**
-- 🎨 Passionate about combining **creative design** with **robust code**
-
----
-
-
-<p align="center">
-<img alt="Contributions" title="Contributions" src="https://github.com/jafferkimitei/jafferkimitei/blob/contributions/snake.svg"/>
-</p>
