@@ -6,13 +6,14 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,nodejs,mongodb,tailwind,figma,postman,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,nestjs,nodejs,postgres,mongodb,prisma,figma,tailwind,vite,jest" />
 </p>
 
----
 <p align="left">
   <img src="https://img.shields.io/badge/Convex-%231B1F23?style=flat-square&logo=convex&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-3B82F6?style=flat-square&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-%23FF2D20?style=flat-square&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat-square&logo=shadcnui&logoColor=white" />
 </p>
 
 ### 🔐 Backend as a Service / Auth Providers
@@ -55,24 +56,12 @@
 ---
 
 ### ⚡ Fun Facts
-- 🔭 Currently building: a **filmmaker streaming platform**
-- 🧠 Always learning: **AI integration & scalable architectures**
+- 🔭 Currently building: a **Mega Ecommerce Platform**
+- 🧠 Always learning: **How to improve my skills in API architectures**
 - 🎨 Passionate about combining **creative design** with **robust code**
 
 ---
 
-### 🧠 Technologies I'm Focused On
-
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
----
 
 <p align="center">
 <img alt="Contributions" title="Contributions" src="https://github.com/jafferkimitei/jafferkimitei/blob/contributions/snake.svg"/>
