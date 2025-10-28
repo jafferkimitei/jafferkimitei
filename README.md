@@ -6,7 +6,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,js,nestjs,nodejs,postgres,mongodb,prisma,figma,tailwind,vite,jest" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mongodb,prisma,figma,tailwind," />
 </p>
 
 <p align="left">
