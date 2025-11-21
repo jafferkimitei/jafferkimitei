@@ -1,32 +1,38 @@
 <h1 align="center">Hi 👋, I'm Jaffer Kimitei</h1>
-<h3 align="center"> Software Engineer | UI/UX Designer</h3>
+<h3 align="center"> Software Engineer | Full Stack</h3>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mongodb,prisma,figma,tailwind," />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,prisma,tailwind," />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Convex-%231B1F23?style=flat-square&logo=convex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-3B82F6?style=flat-square&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-%23FF2D20?style=flat-square&logo=typeorm&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat-square&logo=shadcnui&logoColor=white" />
 </p>
 
-### 🔐 Backend as a Service / Auth Providers
+### 🗄️ Databases & Backend-as-a-Service
 
-- ⚙️ **Convex** – Real-time reactive backend to scale full-stack logic without a traditional server
-- 🔐 **Clerk** – Seamless auth integration with Next.js for user management, SSO, OTP, and more
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-%2300E699?style=for-the-badge&logo=neon&logoColor=white" />
+</p>
+
+### 🤖 AI & APIs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-%23FF6C37?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-%230075FF?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZenCode-%23000000?style=for-the-badge&logo=zencode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Augment-%23FF6B6B?style=for-the-badge&logo=augment&logoColor=white" />
+</p>
 
 ### ☁️ Cloud & Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
 ### 📊 GitHub Stats
 
@@ -48,25 +54,26 @@
 
 <p align="center">
   <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=jafferkimitei&style=flat-square&color=brightgreen"/>
-  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/jafferkimitei/jafferkimitei?logo=github&label=LAST+UPDATE&color=blueviolet&style=flat-square"/>
+  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github-last-commit/jafferkimitei/jafferkimitei?logo=github&label=LAST+UPDATE&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
 ### 🎯 Current Focus
-- Scaling **multi-tenant architectures** with Convex + PostgreSQL  
-- Exploring **AI-driven personalization** for eCommerce  
+- Scaling **multi-tenant architectures** with Supabase + Neon PostgreSQL  
+- Building **AI-powered applications** with Claude, DeepSeek & ZenCode APIs
+- Exploring **AI-driven personalization** for eCommerce with Augment
 - Leveling up testing with **Jest + Playwright**
 
 ### 🤝 Open to Collaborations
 - 🚀 SaaS platforms & multi-tenant apps  
 - 🎬 Creative tech (media, streaming, design tools)  
 - 🛒 Next-gen eCommerce & fintech integrations 
+- 🤖 AI/ML integrations & intelligent applications
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 
 - 📝 Behance: [behance.net/jafferkimitei](https://behance.net/jafferkimitei)
 - 📧 Email: `jafferkimitei@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/jafferkimitei](https://linkedin.com/in/jafferkimitei)
 
 ---
-
