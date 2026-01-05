@@ -14,21 +14,7 @@
   <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat-square&logo=shadcnui&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Backend-as-a-Service
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon-%2300E699?style=for-the-badge&logo=neon&logoColor=white" />
-</p>
-
-### 🤖 AI & APIs
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-%23FF6C37?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-%230075FF?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZenCode-%23000000?style=for-the-badge&logo=zencode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Augment-%23FF6B6B?style=for-the-badge&logo=augment&logoColor=white" />
-</p>
 
 ### ☁️ Cloud & Deployment
 
