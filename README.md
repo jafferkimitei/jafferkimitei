@@ -1,65 +1,93 @@
-<h1 align="center">Hi 👋, I'm Jaffer Kimitei</h1>
-<h3 align="center"> Software Engineer | Full Stack</h3>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,prisma,tailwind," />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeORM-%23FF2D20?style=flat-square&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=flat-square&logo=shadcnui&logoColor=white" />
-</p>
-
-
-
-### ☁️ Cloud & Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 📊 GitHub Stats
+<h1 align="center">
+Jaffer Kimitei
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafferkimitei&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafferkimitei&layout=compact&theme=tokyonight" />
+<b>THE GURU</b><br/>
+Systems Engineer · Full-Stack · AI-Native · UX-Driven
 </p>
-
----
-<details open>
- <summary><h3>🏆 GitHub Trophies</h3></summary>
-
-<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=jafferkimitei&column=8&theme=gruvbox&no-frame=true"/>
-
----
-
-</details>
 
 <p align="center">
-  <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=jafferkimitei&style=flat-square&color=brightgreen"/>
-  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github-last-commit/jafferkimitei/jafferkimitei?logo=github&label=LAST+UPDATE&color=blueviolet&style=flat-square"/>
+I design systems where <b>engineering meets intention</b>.
 </p>
 
 ---
-### 🎯 Current Focus
-- Scaling **multi-tenant architectures** with Supabase + Neon PostgreSQL  
-- Building **AI-powered applications** with Claude, DeepSeek & ZenCode APIs
-- Exploring **AI-driven personalization** for eCommerce with Augment
-- Leveling up testing with **Jest + Playwright**
 
-### 🤝 Open to Collaborations
-- 🚀 SaaS platforms & multi-tenant apps  
-- 🎬 Creative tech (media, streaming, design tools)  
-- 🛒 Next-gen eCommerce & fintech integrations 
-- 🤖 AI/ML integrations & intelligent applications
+## Who I Am
 
-### 📫 Let's Connect
+I’m a full-stack engineer, frontend specialist, and AI integrator focused on building **intelligent, scalable, and human-centered web experiences**.
 
-- 📝 Behance: [behance.net/jafferkimitei](https://behance.net/jafferkimitei)
-- 📧 Email: `jafferkimitei@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/jafferkimitei](https://linkedin.com/in/jafferkimitei)
+I don’t ship features —  
+I architect **systems that think, adapt, and perform under real-world constraints**.
+
+I build under the alias **THE GURU** —  
+a working identity grounded in **systems thinking, execution clarity, and long-term leverage**.
 
 ---
+
+## What I Build
+
+**Frontend Systems**  
+Component-driven architectures, motion orchestration, accessibility-first UI engineering.
+
+**Backend Systems**  
+APIs, auth, data modeling, performance optimization, scalable service design.
+
+**AI Integration**  
+LLMs embedded into products for insight generation, automation, and decision support.
+
+**Design Systems**  
+UX strategy, interaction design, visual language, and brand coherence.
+
+---
+
+## Selected Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,postgres,redis,git,figma" />
+</p>
+
+**Core Tools**
+- Next.js · TypeScript · Tailwind CSS
+- Node.js · PostgreSQL · Redis
+- Motion / GSAP
+- OpenAI APIs · LLM tooling
+- Figma · Adobe Suite
+
+I keep the stack tight by design.  
+Tools are chosen to **compound**, not decorate.
+
+---
+
+## Current Focus
+
+- AI-native products where intelligence is infrastructure, not an add-on  
+- Real-time systems, dashboards, and decision interfaces  
+- Performance as UX — latency, trust, and perceived quality  
+- Human-AI collaboration workflows (AskPortfolio, Eyzen)
+
+---
+
+## Signal Over Noise
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jafferkimitei&show_icons=true&hide_title=true&hide_rank=true&theme=transparent" />
+</p>
+
+---
+
+## Reach
+
+- 🌐 Portfolio: https://jafferkimitei.com  
+- 💼 LinkedIn: https://linkedin.com/in/jafferkimitei  
+- 🧠 GitHub: https://github.com/jafferkimitei  
+- ✉️ Email: hello@jafferkimitei.com  
+
+---
+
+<p align="center">
+<i>
+Designing and engineering intelligent web experiences.<br/>
+Built with intention. Shipped with clarity.
+</i>
+</p>
