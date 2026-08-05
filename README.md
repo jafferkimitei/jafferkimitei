@@ -72,12 +72,12 @@ I care about the details users feel but rarely name: hierarchy, latency, feedbac
 
 ### GitHub signal
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jafferkimitei&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=F59E0B&rank_icon=percentile" alt="Jaffer's GitHub statistics" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jafferkimitei&theme=transparent&hide_border=true&ring=7C3AED&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=64748B" alt="Jaffer's GitHub contribution streak" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jafferkimitei&fire=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jafferkimitei&fire=EB5454)](https://git.io/streak-stats) -->
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jafferkimitei&bg_color=00000000&color=94A3B8&line=2563EB&point=F59E0B&area=true&area_color=7C3AED&hide_border=true&custom_title=Building%20in%20public" alt="Jaffer's GitHub contribution graph" />
