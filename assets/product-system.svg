@@ -1,0 +1,64 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jaffer Kimitei product system</title>
+  <desc id="desc">Experience design, full-stack engineering, and applied AI connected into one product system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050A13"/>
+      <stop offset="0.5" stop-color="#091426"/>
+      <stop offset="1" stop-color="#050A13"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="155" y1="165" x2="1045" y2="165" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)" opacity="0.4"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="328.5" rx="23.25" stroke="#334155" stroke-opacity="0.65" stroke-width="1.5"/>
+
+  <text x="52" y="49" fill="#64748B" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700" letter-spacing="3">PRODUCT SYSTEM / 2026</text>
+  <circle cx="1137" cy="43" r="5" fill="#22C55E"/>
+  <text x="1117" y="48" fill="#64748B" font-family="Inter, ui-sans-serif, system-ui" font-size="12" text-anchor="end">LIVE</text>
+
+  <path d="M155 166H1045" stroke="#1E293B" stroke-width="10" stroke-linecap="round"/>
+  <path d="M155 166H1045" stroke="url(#flow)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+
+  <g>
+    <rect x="52" y="91" width="300" height="154" rx="18" fill="#07111F" stroke="#2563EB" stroke-opacity="0.65"/>
+    <circle cx="92" cy="129" r="17" fill="#2563EB" fill-opacity="0.16" stroke="#60A5FA"/>
+    <path d="M84 129L90 135L101 122" stroke="#60A5FA" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="123" y="127" fill="#60A5FA" font-family="Inter, ui-sans-serif, system-ui" font-size="13" font-weight="700" letter-spacing="2">01 / EXPERIENCE</text>
+    <text x="82" y="174" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui" font-size="25" font-weight="700">Make it obvious.</text>
+    <text x="82" y="207" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="15">Research · UX · UI · Motion · Access</text>
+  </g>
+
+  <g>
+    <rect x="450" y="91" width="300" height="154" rx="18" fill="#07111F" stroke="#7C3AED" stroke-opacity="0.75"/>
+    <circle cx="490" cy="129" r="17" fill="#7C3AED" fill-opacity="0.16" stroke="#A78BFA"/>
+    <path d="M484 123L478 129L484 135M496 123L502 129L496 135" stroke="#A78BFA" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="521" y="127" fill="#A78BFA" font-family="Inter, ui-sans-serif, system-ui" font-size="13" font-weight="700" letter-spacing="2">02 / ENGINEERING</text>
+    <text x="480" y="174" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui" font-size="25" font-weight="700">Make it real.</text>
+    <text x="480" y="207" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="15">Frontend · APIs · Data · Cloud · Quality</text>
+  </g>
+
+  <g>
+    <rect x="848" y="91" width="300" height="154" rx="18" fill="#07111F" stroke="#F59E0B" stroke-opacity="0.72"/>
+    <circle cx="888" cy="129" r="17" fill="#F59E0B" fill-opacity="0.14" stroke="#FBBF24"/>
+    <path d="M888 119V139M878 129H898M881 122L895 136M895 122L881 136" stroke="#FBBF24" stroke-width="1.7" stroke-linecap="round"/>
+    <text x="919" y="127" fill="#FBBF24" font-family="Inter, ui-sans-serif, system-ui" font-size="13" font-weight="700" letter-spacing="2">03 / INTELLIGENCE</text>
+    <text x="878" y="174" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui" font-size="25" font-weight="700">Make it compound.</text>
+    <text x="878" y="207" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="15">AI · Agents · Automation · Evals · Insight</text>
+  </g>
+
+  <text x="600" y="292" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="600" text-anchor="middle" letter-spacing="1">ONE PRODUCT BRAIN · FROM FIRST FRAME TO PRODUCTION</text>
+</svg>
+

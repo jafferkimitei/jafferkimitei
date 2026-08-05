@@ -1,3 +1,8 @@
+<!--
+  GitHub Profile README for github.com/jafferkimitei
+  Built as a product page: clear positioning, proof, personality, and conversion.
+-->
+
 <p align="center">
   <img src="./assets/jaffer-anime-hero.webp" width="100%" alt="Anime-style illustration of Jaffer Kimitei engineering digital products from a futuristic Nairobi studio" />
 </p>
@@ -19,27 +24,21 @@
   <a href="mailto:hello@jafferkimitei.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-Email-0B1220?style=for-the-badge&labelColor=0B1220&color=F59E0B" alt="Email Jaffer" /></a>
 </p>
 
-I work where design intent meets production reality
+---
+
+### I work where design intent meets production reality
 
 I map the journey in Figma, engineer the interface in React and Next.js, build the APIs and data layer behind it, then integrate intelligence where it creates real leverage. The result is not just a polished screen or a working endpoint—it is a coherent product system.
 
-01 / EXPERIENCE
-
-02 / ENGINEERING
-
-03 / INTELLIGENCE
-
-User journeys & interaction designDesign systems & prototypingMotion, accessibility & performance
-
-TypeScript product architectureFrontend, APIs & databasesTesting, cloud & delivery
-
-LLM product integrationAgentic workflows & automationExtraction, evaluation & analytics
+| `01 / EXPERIENCE` | `02 / ENGINEERING` | `03 / INTELLIGENCE` |
+| --- | --- | --- |
+| User journeys & interaction design<br />Design systems & prototyping<br />Motion, accessibility & performance | TypeScript product architecture<br />Frontend, APIs & databases<br />Testing, cloud & delivery | LLM product integration<br />Agentic workflows & automation<br />Extraction, evaluation & analytics |
 
 <p align="center">
   <img src="./assets/product-system.svg" width="100%" alt="Jaffer's product system connecting experience design, full-stack engineering, and applied AI" />
 </p>
 
-Selected systems
+### Selected systems
 
 <p align="center">
   <a href="https://github.com/jafferkimitei/flowstate-ux-driven-design">
@@ -50,45 +49,29 @@ Selected systems
   </a>
 </p>
 
-Product
+| Product | What it proves | Explore |
+| --- | --- | --- |
+| **Eycube** | Design-led software, SaaS, automation, and AI systems built for scale | [Live studio ↗](https://eycube.com) |
+| **EyTicket** | Real-time ticketing infrastructure with payments, analytics, and QR validation | [Live product ↗](https://eyticket.live) |
+| **Selected Work** | Production websites and product experiences across multiple industries | [View portfolio ↗](https://jafferkimitei.com/work) |
 
-What it proves
-
-Explore
-
-Eycube
-
-Design-led software, SaaS, automation, and AI systems built for scale
-
-Live studio ↗
-
-EyTicket
-
-Real-time ticketing infrastructure with payments, analytics, and QR validation
-
-Live product ↗
-
-Selected Work
-
-Production websites and product experiences across multiple industries
-
-View portfolio ↗
-
-The toolkit
+### The toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ts,react,nextjs,vue,tailwind,nodejs,nestjs,python,fastapi,postgres,laravel,springboot,phalcon,redis,docker,aws,vercel,githubactions,jest&perline=9" alt="Figma, TypeScript, React, Next.js, Vue, Tailwind CSS, Node.js, NestJS, Python, FastAPI, PostgreSQL, Laravel, Phalcon, Springboot Redis, Docker, AWS, Vercel, GitHub Actions, and Jest" />
+  <img src="https://skillicons.dev/icons?i=figma,ts,react,nextjs,vue,tailwind,nodejs,nestjs,python,fastapi,postgres,mongodb,redis,docker,aws,vercel,githubactions,jest&perline=9" alt="Figma, TypeScript, React, Next.js, Vue, Tailwind CSS, Node.js, NestJS, Python, FastAPI, PostgreSQL, MongoDB, Redis, Docker, AWS, Vercel, GitHub Actions, and Jest" />
 </p>
 
+```text
 DESIGN       Figma · Prototyping · Design Systems · Motion · WCAG
 FRONTEND     TypeScript · React · Next.js · Vue · Tailwind · Zustand · TanStack Query
-BACKEND      Node.js · NestJS · FastAPI · REST · SpringBoot · PostgreSQL · Laravel/Phalcon · Redis
+BACKEND      Node.js · NestJS · FastAPI · REST · GraphQL · PostgreSQL · MongoDB · Redis
 AI           LLM Integration · Structured Extraction · Agent Workflows · Evals · Automation
 DELIVERY     Docker · GitHub Actions · AWS · Vercel · Testing · Performance Engineering
+```
 
-Build philosophy
+### Build philosophy
 
-Design should feel inevitable. Technology should disappear. Systems should scale silently.
+> **Design should feel inevitable. Technology should disappear. Systems should scale silently.**
 
 I care about the details users feel but rarely name: hierarchy, latency, feedback, motion, edge cases, accessibility, and the moment a complex workflow suddenly feels obvious.
 
@@ -98,7 +81,7 @@ I care about the details users feel but rarely name: hierarchy, latency, feedbac
   I also work in film, photography, and visual storytelling. That creative discipline shapes how I use composition, rhythm, motion, and narrative inside digital products.
 </details>
 
-GitHub signal
+### GitHub signal
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jafferkimitei&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=F59E0B&rank_icon=percentile" alt="Jaffer's GitHub statistics" />
@@ -108,6 +91,8 @@ GitHub signal
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jafferkimitei&bg_color=00000000&color=94A3B8&line=2563EB&point=F59E0B&area=true&area_color=7C3AED&hide_border=true&custom_title=Building%20in%20public" alt="Jaffer's GitHub contribution graph" />
 </p>
+
+---
 
 <h3 align="center">Have a hard product problem?</h3>
 
@@ -126,3 +111,4 @@ GitHub signal
 <p align="center">
   <img src="./assets/footer-signal.svg" width="100%" alt="While alive, solve problems" />
 </p>
+

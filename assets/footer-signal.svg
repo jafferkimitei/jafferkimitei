@@ -1,0 +1,18 @@
+<svg width="1200" height="128" viewBox="0 0 1200 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">While alive, solve problems</title>
+  <desc id="desc">A closing signal from Nairobi to the world.</desc>
+  <defs>
+    <linearGradient id="line" x1="100" y1="64" x2="1100" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#2563EB"/>
+      <stop offset="0.56" stop-color="#7C3AED"/>
+      <stop offset="0.82" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M96 64H342L365 39L390 91L416 54L434 64H1104" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="430" y="38" width="340" height="52" rx="26" fill="#07111F" stroke="#334155"/>
+  <circle cx="462" cy="64" r="5" fill="#22C55E"/>
+  <text x="486" y="69" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">while (alive) solve(problems);</text>
+  <text x="1100" y="104" fill="#64748B" font-family="Inter, ui-sans-serif, system-ui" font-size="11" text-anchor="end" letter-spacing="2">NAIROBI → EVERYWHERE</text>
+</svg>
