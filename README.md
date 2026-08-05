@@ -38,17 +38,6 @@ I map the journey in Figma, engineer the interface in React and Next.js, build t
   <img src="./assets/product-system.svg" width="100%" alt="Jaffer's product system connecting experience design, full-stack engineering, and applied AI" />
 </p>
 
-### Selected systems
-
-<p align="center">
-  <a href="https://github.com/jafferkimitei/flowstate-ux-driven-design">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jafferkimitei&repo=flowstate-ux-driven-design&theme=github_dark&hide_border=true&bg_color=07111F&title_color=60A5FA&text_color=CBD5E1&icon_color=F59E0B" alt="Flowstate UX-driven design repository" />
-  </a>
-  <a href="https://github.com/jafferkimitei/narrative-os">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=jafferkimitei&repo=narrative-os&theme=github_dark&hide_border=true&bg_color=07111F&title_color=A78BFA&text_color=CBD5E1&icon_color=F59E0B" alt="NarrativeOS repository" />
-  </a>
-</p>
-
 | Product | What it proves | Explore |
 | --- | --- | --- |
 | **Eycube** | Design-led software, SaaS, automation, and AI systems built for scale | [Live studio ↗](https://eycube.com) |
