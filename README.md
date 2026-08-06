@@ -97,10 +97,14 @@ I care about the details users feel but rarely name: hierarchy, latency, feedbac
 If something I designed, built, photographed, or shared helped you—or simply made you think differently—you can help fuel the next build.
 
 <p align="center">
-  <a href="https://ko-fi.com/jafferkimitei">
-    <img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support Jaffer Kimitei on Ko-fi" />
-  </a>
+  <img src="https://img.shields.io/badge/Lipa_na_M--PESA-Pochi_la_Biashara-00A651?style=for-the-badge" alt="Lipa na M-PESA — Pochi la Biashara" />
 </p>
+
+<div align="center">
+  <strong>Lipa na M-PESA · Pochi la Biashara</strong><br />
+  <strong>Pochi number:</strong> <code>+254710638127</code><br />
+  <strong>Name:</strong> Jaffer Kimitei
+</div>
 
 <p align="center">
   <sub>Every coffee supports new product experiments, open-source work, photography, and visual stories.</sub>
