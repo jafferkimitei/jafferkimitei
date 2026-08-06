@@ -83,24 +83,6 @@ I care about the details users feel but rarely name: hierarchy, latency, feedbac
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jafferkimitei&bg_color=00000000&color=94A3B8&line=2563EB&point=F59E0B&area=true&area_color=7C3AED&hide_border=true&custom_title=Building%20in%20public" alt="Jaffer's GitHub contribution graph" />
 </p>
 
-### Support the work ☕
-
-If something I designed, built, photographed, or shared helped you—or simply made you think differently—you can help fuel the next build.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lipa_na_M--PESA-Pochi_la_Biashara-00A651?style=for-the-badge" alt="Lipa na M-PESA — Pochi la Biashara" />
-</p>
-
-<div align="center">
-  <strong>Lipa na M-PESA · Pochi la Biashara</strong><br />
-  <strong>Pochi number:</strong> <code>+254710638127</code><br />
-  <strong>Name:</strong> Jaffer Kimitei
-</div>
-
-<p align="center">
-  <sub>Every coffee supports new product experiments, open-source work, photography, and visual stories.</sub>
-</p>
-
 ---
 
 <h3 align="center">Have a hard product problem?</h3>
