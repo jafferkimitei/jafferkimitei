@@ -84,6 +84,27 @@ I care about the details users feel but rarely name: hierarchy, latency, feedbac
 </p>
 
 ---
+## ⚡ Fuel the Developer
+
+Building interfaces. Shipping systems. Experimenting with AI.  
+Occasionally surviving on caffeine, music... and soda. 🥤
+
+If something I've built helped you, inspired you, or saved you a few hours of debugging, you can help keep the experiments going.
+
+<p align="center">
+  <a href="https://buymesoda.com/y9djMd54CDZU6vJCN9ZMtQUZE5w2">
+    <img
+      src="https://img.shields.io/badge/BUY_ME_A_SODA-🥤_FUEL_THE_NEXT_BUILD-FF5F1F?style=for-the-badge&logo=github&logoColor=white"
+      alt="Buy Me a Soda"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🥤 Soda → ⚡ Energy → 💻 Code → 🚀 Ship</sub>
+</p>
+
+---
 
 <h3 align="center">Have a hard product problem?</h3>
 
