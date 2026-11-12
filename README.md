@@ -1,26 +1,26 @@
 # Jaffer Kimitei
 
-\<p align="center">
-&#x20; \<img src="./assets/jaffer-anime-hero.webp" width="100%" alt="Jaffer Kimitei" />
-\</p>
+<p align="center">
+&#x20; <img src="./assets/jaffer-anime-hero.webp" width="100%" alt="Jaffer Kimitei" />
+</p>
 
-\<h1 align="center">Jaffer Kimitei\</h1>
+<h1 align="center">Jaffer Kimitei\</h1>
 
-\<p align="center">
-&#x20; \<strong>Solutions Architect · Full Stack Engineer · Product Designer\</strong>
-\</p>
+<p align="center">
+&#x20; <strong>Solutions Architect · Full Stack Engineer · Product Designer</strong>
+</p>
 
-\<p align="center">
+<p align="center">
 &#x20; Designing system architectures and engineering scalable, intelligent digital products.
 &#x20; \<br />
 &#x20; Nairobi, Kenya · Working globally
-\</p>
+</p>
 
-\<p align="center">
+<p align="center">
 &#x20; \<a href="[https://jafferkimitei.com](https://jafferkimitei.com)">Portfolio\</a> ·
 &#x20; \<a href="[https://linkedin.com/in/jafferkimitei](https://linkedin.com/in/jafferkimitei)">LinkedIn\</a> ·
-&#x20; \<a href="mailto\:hello\@jafferkimitei.com">Contact\</a>
-\</p>
+&#x20; \<a href="mailto\:hello\@jafferkimitei.com">Contact</a>
+</p>
 
 ---
 
@@ -55,7 +55,7 @@ My engineering work spans several areas of digital infrastructure and business t
 
 ### Technology Stack
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=typescript,react,nextjs,vue,tailwind,figma,springboot,rust,nodejs,nestjs,laravel,postgres,mongodb,redis,prisma,docker,jenkins,github,linux,aws,vercel&perline=8](https://skillicons.dev/icons?i=typescript,react,nextjs,vue,tailwind,figma,springboot,rust,nodejs,nestjs,laravel,postgres,mongodb,redis,prisma,docker,jenkins,github,linux,aws,vercel\&perline=8)" alt="Technology stack" /> \</p>
+<p align="center"> <img src="[https://skillicons.dev/icons?i=typescript,react,nextjs,vue,tailwind,figma,springboot,rust,nodejs,nestjs,laravel,postgres,mongodb,redis,prisma,docker,jenkins,github,linux,aws,vercel&perline=8](https://skillicons.dev/icons?i=typescript,react,nextjs,vue,tailwind,figma,springboot,rust,nodejs,nestjs,laravel,postgres,mongodb,redis,prisma,docker,jenkins,github,linux,aws,vercel\&perline=8)" alt="Technology stack" /> </p>
 
 ### Engineering Philosophy
 
@@ -71,8 +71,8 @@ My focus is on:
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Explore my work and engineering approach.\</strong>
-&#x20; \<br />
-&#x20; \<a href="[https://jafferkimitei.com](https://jafferkimitei.com)">jafferkimitei.com\</a>
-\</p>
+<p align="center">
+&#x20; <strong>Explore my work and engineering approach.</strong>
+&#x20; <br />
+&#x20; <a href="[https://jafferkimitei.com](https://jafferkimitei.com)">jafferkimitei.com</a>
+</p>
